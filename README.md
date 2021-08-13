@@ -1,3 +1,5 @@
 # Installation
 
-npm install @pado/downloader
+```sh
+npm install node-downloader.js
+```
