@@ -1,6 +1,6 @@
 {
   "name": "node-downloader.js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,5 @@
     "type" : "git",
     "url" : "https://github.com/47PADO47/Downloader.git"
   },
-  "license": "ISC"
+  "license": "MIT"
 }
